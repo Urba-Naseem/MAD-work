@@ -1,0 +1,25 @@
+{
+  "name": "mid_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "~51.0.0",
+    "expo-font": "~12.0.5",
+    "expo-image-picker": "~15.0.7",
+    "expo-status-bar": "~3.0.9",
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "private": true
+}
